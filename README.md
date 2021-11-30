@@ -1,2 +1,3 @@
 # js-test
-cool js
+cool! js
+this repository is for js test
